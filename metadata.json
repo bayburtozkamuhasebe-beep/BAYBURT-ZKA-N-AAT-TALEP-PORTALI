@@ -1,0 +1,6 @@
+{
+  "name": "BAYBURT ÖZKA İNŞAAT TALEP PORTALI",
+  "description": "Bayburt Özka İnşaat şantiyeleri ve birimleri için ödeme ve harcama talep yönetim portalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
